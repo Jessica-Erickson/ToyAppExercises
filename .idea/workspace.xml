@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb82aa0a-ca30-4508-be2c-a40b40745886" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,43 +22,40 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="xml" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="3" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="XML" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="60" />
+          <entry key="java" value="201" />
+          <entry key="xml" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="60" />
+          <entry key="JAVA" value="201" />
+          <entry key="XML" value="106" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="290">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -73,6 +70,9 @@
       <list>
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" />
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" />
+        <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -148,7 +148,8 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="TODO" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -161,6 +162,28 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Solution-CreateLayout/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ud851-Exercises.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -168,13 +191,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Solution-CreateLayout/app/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/ToyBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Solution-DisplayToyList/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Solution-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <folding>
+            <element signature="e#0#2754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
