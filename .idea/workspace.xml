@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb82aa0a-ca30-4508-be2c-a40b40745886" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb82aa0a-ca30-4508-be2c-a40b40745886" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +12,10 @@
     <session id="-1684110371">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -92,6 +89,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,22 +97,10 @@
               <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ud851-Exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ud851-Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson01-Favorite-Toys" type="462c0819:PsiDirectoryNode" />
-              <item name="T01.03-Exercise-AddScrolling" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +144,7 @@
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3397711" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34477827" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -171,7 +157,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="2" visible="true" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
     </layout>
   </component>
@@ -209,13 +195,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/ToyBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Solution-DisplayToyList/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -224,19 +204,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Solution-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-274">
-          <folding>
-            <element signature="e#0#2754#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-274" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
