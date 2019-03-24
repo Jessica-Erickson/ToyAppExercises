@@ -15,4 +15,5 @@
 -->
 <resources>
     <string name="app_name">Explicit Intent</string>
+    <string name="no_message_entered">No message entered.</string>
 </resources>
