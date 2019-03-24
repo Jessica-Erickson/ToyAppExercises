@@ -8,6 +8,7 @@
     <TextView
         android:id="@+id/tv_display"
         android:layout_width=""
-        android:layout_height="" />
+        android:layout_height=""
+        android:text="No message entered."/>
 
 </FrameLayout>
