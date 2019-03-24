@@ -9,6 +9,7 @@
         android:id="@+id/tv_display"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/no_message_entered"/>
+        android:text="@string/no_message_entered"
+        android:textSize="30sp" />
 
 </FrameLayout>

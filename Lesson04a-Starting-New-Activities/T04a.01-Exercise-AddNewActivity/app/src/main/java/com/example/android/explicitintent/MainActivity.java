@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
 // Completed (2) Change the ConstraintLayout to a FrameLayout and make appropriate adjustments
 // Completed (3) Add a TextView with an id value of @id/tv_display
 // Completed (4) Set the text to something that indicates this is default text being displayed
-// TODO (5) Make the text size a little larger
+// Completed (5) Make the text size a little larger
 
 // Do steps 6 & 7 in ChildActivity.java
 // TODO (6) Create a TextView field to display your message
