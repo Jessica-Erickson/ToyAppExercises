@@ -38,10 +38,10 @@ public class ChildActivity extends AppCompatActivity {
 
         // Completed (4) Create an if statement to check if this Intent has the extra we passed from MainActivity
         if (intent.hasExtra(Intent.EXTRA_TEXT)) {
-
+            String newText = intent.getStringExtra(Intent.EXTRA_TEXT);
         }
 
-            // TODO (5) If the Intent contains the correct extra, retrieve the text
+            // Completed (5) If the Intent contains the correct extra, retrieve the text
 
             // TODO (6) If the Intent contains the correct extra, use it to set the TextView text
     }
