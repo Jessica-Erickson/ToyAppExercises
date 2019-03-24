@@ -77,7 +77,10 @@ public class MainActivity extends AppCompatActivity {
                 .show();
     }
 
-    // TODO (1) Create a method called openWebPage that accepts a String as a parameter
+    // Completed (1) Create a method called openWebPage that accepts a String as a parameter
+    public void openWebPage(String s) {
+
+    }
     // Do steps 2 - 4 within openWebPage
 
         // TODO (2) Use Uri.parse to parse the String into a Uri
