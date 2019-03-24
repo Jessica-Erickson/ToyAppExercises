@@ -36,7 +36,10 @@ public class ChildActivity extends AppCompatActivity {
         // Completed (3) Use the getIntent method to store the Intent that started this Activity in a variable
         Intent intent = getIntent();
 
-        // TODO (4) Create an if statement to check if this Intent has the extra we passed from MainActivity
+        // Completed (4) Create an if statement to check if this Intent has the extra we passed from MainActivity
+        if (intent.hasExtra(Intent.EXTRA_TEXT)) {
+
+        }
 
             // TODO (5) If the Intent contains the correct extra, retrieve the text
 
