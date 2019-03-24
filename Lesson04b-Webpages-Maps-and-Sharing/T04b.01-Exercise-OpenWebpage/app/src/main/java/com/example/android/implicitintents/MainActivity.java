@@ -84,6 +84,10 @@ public class MainActivity extends AppCompatActivity {
         Uri address = Uri.parse(s);
 
         Intent intent = new Intent(Intent.ACTION_VIEW, address);
+
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
     }
     // Do steps 2 - 4 within openWebPage
 
@@ -91,5 +95,5 @@ public class MainActivity extends AppCompatActivity {
 
         // Completed (3) Create an Intent with Intent.ACTION_VIEW and the webpage Uri as parameters
 
-        // TODO (4) Verify that this Intent can be launched and then call startActivity
+        // Completed (4) Verify that this Intent can be launched and then call startActivity
 }
