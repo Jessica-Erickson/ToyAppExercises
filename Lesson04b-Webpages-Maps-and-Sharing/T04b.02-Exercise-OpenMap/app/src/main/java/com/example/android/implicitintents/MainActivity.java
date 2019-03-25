@@ -114,10 +114,10 @@ public class MainActivity extends AppCompatActivity {
 
     // Completed (1) Create a method called showMap with a Uri as the single parameter
     private void showMap(String uri) {
-
+        Intent intent = new Intent(Intent.ACTION_VIEW, );
     }
     // Do steps 2 - 4 within the showMap method
-        // TODO (2) Create an Intent with action type, Intent.ACTION_VIEW
+        // Completed (2) Create an Intent with action type, Intent.ACTION_VIEW
 
         // TODO (3) Set the data of the Intent to the Uri passed into this method
 
