@@ -145,11 +145,11 @@ public class MainActivity extends AppCompatActivity {
 
     // Completed (1) Create a void method called shareText that accepts a String as a parameter
     private void shareText(String message) {
-
+        String mimeType = "text/plain";
     }
     // Do steps 2 - 4 within the shareText method
 
-        // TODO (2) Create a String variable called mimeType and set it to "text/plain"
+        // Completed (2) Create a String variable called mimeType and set it to "text/plain"
 
         // TODO (3) Create a title for the chooser window that will pop up
 
