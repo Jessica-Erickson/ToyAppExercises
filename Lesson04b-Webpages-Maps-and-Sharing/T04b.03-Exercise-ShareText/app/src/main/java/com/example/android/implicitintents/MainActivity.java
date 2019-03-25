@@ -143,7 +143,10 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // TODO (1) Create a void method called shareText that accepts a String as a parameter
+    // Completed (1) Create a void method called shareText that accepts a String as a parameter
+    private void shareText(String message) {
+
+    }
     // Do steps 2 - 4 within the shareText method
 
         // TODO (2) Create a String variable called mimeType and set it to "text/plain"
