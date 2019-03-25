@@ -48,7 +48,8 @@ public class MainActivity extends AppCompatActivity {
      * @param v Button that was clicked.
      */
     public void onClickOpenAddressButton(View v) {
-        // TODO (5) Store an address in a String
+        // Completed (5) Store an address in a String
+        String thePlace = "2930 Pearl St, Boulder, CO 80301";
 
         // TODO (6) Use Uri.Builder with the appropriate scheme and query to form the Uri for the address
 
