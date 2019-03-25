@@ -51,7 +51,10 @@ public class MainActivity extends AppCompatActivity {
         // Completed (5) Store an address in a String
         String thePlace = "2930 Pearl St, Boulder, CO 80301";
 
-        // TODO (6) Use Uri.Builder with the appropriate scheme and query to form the Uri for the address
+        // Completed (6) Use Uri.Builder with the appropriate scheme and query to form the Uri for the address
+        Uri.Builder builder = new Uri.Builder();
+        builder.scheme("geo").path("0,0").query(thePlace);
+        Uri addressUri = builder.build();
 
         // TODO (7) Replace the Toast with a call to showMap, passing in the Uri from the previous step
         Toast.makeText(this, "TODO: Open a map when this button is clicked", Toast.LENGTH_SHORT).show();
