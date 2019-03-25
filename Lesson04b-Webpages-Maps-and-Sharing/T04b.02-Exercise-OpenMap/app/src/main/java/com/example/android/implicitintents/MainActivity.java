@@ -117,13 +117,17 @@ public class MainActivity extends AppCompatActivity {
         Uri address = Uri.parse(uri);
 
         Intent intent = new Intent(Intent.ACTION_VIEW, address);
+
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
     }
     // Do steps 2 - 4 within the showMap method
         // Completed (2) Create an Intent with action type, Intent.ACTION_VIEW
 
         // Completed (3) Set the data of the Intent to the Uri passed into this method
 
-        // TODO (4) Verify that this Intent can be launched and then call startActivity
+        // Completed (4) Verify that this Intent can be launched and then call startActivity
 
 
 }
